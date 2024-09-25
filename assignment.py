@@ -134,7 +134,6 @@ def make_the_input_store_in_variable(input_string: str) -> str:
     return the user_input string
     and use if-else statements to check the type of the input_string and convert it to the appropriate data type
     """
-    
 
 
 
